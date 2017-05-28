@@ -1,0 +1,20 @@
+Falhas da app atual:
+
+●	Não é informado se há conectividade quando carregada a tela de autenticação, permitindo que dados do usuário sejam digitados desnecessariamente ainda assim.
+●	A barra de menu (Home, Configurações, Informações do cliente, Alertas e Mensagens) está posicionada na parte inferior da tela, e de um modo geral essa região costuma ser menos notada do que a parte superior.
+●	Não existe nenhuma forma de solicitar emissão de senha para atendimento na agência, de modo que isso só seja possível in loco.
+●	Não possui nenhum mecanismo demonstrativo (gráfico ou não) para receitas e despesas.
+●	Não possui mecanismo de contato (fale conosco) com a caixa para sanar dúvidas.
+
+Proposta de telas:
+●	Na tela de autenticação, informar por mensagem flutuante/pop-up quando não houver conectividade.
+●	Reposicionar a barra de menu para parte superior da tela home do cliente autenticado.
+●	Incluir na tela de autenticação e/ou home, solicitação de emissão de senha, podendo o cliente selecionar.
+●	Fornecer mecanismo demonstrativo (gráfico ou não) para receitas e despesas.
+●	Incluir na tela de autenticação e/ou home acesso ao “Fale conosco”, onde serão informados os canais de atendimento.
+
+Funcionalidades:
+●	Fornecer tela de autenticação, onde serão permitidas até 3 (três) tentativas de logon.
+●	Fornecer uma tela principal com um menu de opções de operações.
+●	Fornecer botão para solicitar emissão de senha de atendimento para uma agência à escolha do cliente.
+●	Permitir o usuário personalizar parte do espaço de sua tela Home com atalhos rápidos para as operações de sua predileção.
